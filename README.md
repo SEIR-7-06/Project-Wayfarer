@@ -53,33 +53,37 @@ After you have completed your project, **deploy to heroku** to get practice gett
 <summary>TEAMS</summary>
 <br>
  
-Seanny
-Sri
-Jimmy
-Laura
+student name
+student name
+student name
+student name
 
-Liz
-Tina
-Anna
+student name
+student name
+student name
+student name
 
-Sammy
-Ajay
-Aibek
+student name
+student name
+student name
+student name
 
-Seema
-Mert
-Huang
+student name
+student name
+student name
+student name
 
-Melody
-Monica
-Jake
+student name
+student name
+student name
+student name
  
  </details>
 
 
 ## Presentation
 
-Each group will present their project on **04/28/2020 Tuesday** starting at **11:00am** for 15 minutes.
+Each group will present their project on **02/26/2021 Friday** starting at **9:30am** for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
