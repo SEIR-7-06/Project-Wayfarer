@@ -54,30 +54,17 @@ After you have completed your project, **deploy to heroku** to get practice gett
 <summary>TEAMS</summary>
 <br>
  
-student name
-student name
-student name
-student name
+Jessica Hansen, Joey Giardina, Mohamed Abdulah, Nicholas Gacicia
 
-student name
-student name
-student name
-student name
+Khanon Nomura, Cassandra Jacques, Nic K, Tom Gray
 
-student name
-student name
-student name
-student name
+Vishwa G, Joseph Baker, Luvy Cunanan, Abe A Abdullah
 
-student name
-student name
-student name
-student name
+Scott Johnson, Andre Renaud, Joshua Johnson
 
-student name
-student name
-student name
-student name
+Sennad Binghalib, Kenny Trinh, Matt Biggers
+
+Brittany Bui, Joal Chiu, Alexander Miller, Josh Waldman
  
  </details>
 
