@@ -114,8 +114,5 @@ You will be evaluated on the following measures:
   - code demonstrates good problem solving
   - code is DRY
 3. Technical requirements
-  - users are authenticated
+  - all core requirements from sprints 1, 2, and 3
   - full CRUD for posts
-  - custom HTML, CSS, and JavaScript (using the asset pipeline)
-  - users are authorized
-  - commenting (optional)
