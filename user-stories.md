@@ -43,12 +43,8 @@
 
 A user CANNOT save invalid data to the database, according to the following rules:
 
-3. A user CANNOT sign up with an email (or username) that is already in use.
-4. A post's title must be between 1 and 200 characters.
-5. A post's content must not be empty.
-
-A user is authorized to perform certain actions on the site, according to the following rules:
-
+3. A post's title must be between 1 and 200 characters.
+4. A post's content must not be empty.
 
 #### Bonuses
 
@@ -94,6 +90,7 @@ A user is authorized to perform certain actions on the site, according to the fo
   * The name of the website.
   * Links to "Log In" and "Sign Up".
 2. Sign up for an account.
+  * A user CANNOT sign up with an email (or username) that is already in use.
 3. Log in to their account if they already have one.
 4. Be redirected to their public profile page after logging in.
 5. On their public profile page, see their name, the current city they have set in their profile, and their join date.
@@ -106,6 +103,7 @@ A user is authorized to perform certain actions on the site, according to the fo
 10. A user MUST be logged in to create/update/destroy resources.
 11. A user may only edit their own profile and edit/delete their own posts.
 12. Visit user profile pages via pretty urls, like "/users/james".
+
 
 ### More Bonuses!
 
