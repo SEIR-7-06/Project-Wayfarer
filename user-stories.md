@@ -34,7 +34,7 @@
 
 ---
 
-## Sprint 2: Validations & Authorization
+## Sprint 2: Validations
 
 **A user should be able to:**
 
