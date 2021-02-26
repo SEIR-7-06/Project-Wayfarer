@@ -78,9 +78,10 @@ Each group will have 10 minutes to present and should feature all members of the
 **Your presentation should include:**
 
 * Tour (demo) of your app
+* Challenges and Triumphs you encountered along the way
 * How did your group approach the requirements? (mention anything unique or creative your group chose to do)
 * What was easier than you thought? What was more challenging?
-* What is a lesson you will carry forward to working on your next project?
+* Words of wisdom - What advice would you give to a brand new group taking on this project
 * Shout outs for fellow students!
 
 ## Evaluation
