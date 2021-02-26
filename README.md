@@ -71,13 +71,13 @@ Brittany Bui, Joal Chiu, Alexander Miller, Josh Waldman
 
 ## Presentation
 
-Each group will present their project on **02/26/2021 Friday** starting at **9:30am** for 10 minutes.
+Project presentations will be on on **02/26/2021 Friday**.
 
-Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
+Each group will have 10 minutes to present and should feature all members of the team.
 
 **Your presentation should include:**
 
-* Tour (demo) of your app, ideally deployed on heroku (but not required).
+* Tour (demo) of your app
 * How did your group approach the requirements? (mention anything unique or creative your group chose to do)
 * What was easier than you thought? What was more challenging?
 * What is a lesson you will carry forward to working on your next project?
