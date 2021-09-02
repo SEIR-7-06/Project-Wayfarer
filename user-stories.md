@@ -12,18 +12,18 @@
   - The site-wide header.
   - The name of the city.
   - An iconic photo of the city.
-1. View a list of posts on the San Francisco page:
+2. View a list of posts on the San Francisco page:
   - With the post titles linked to the individual post "show" pages.
-1. View post "show" pages with title, author, and content.
-1. View city pages for "London" and "Gibraltar".
-1. All of this data should be coming from a database stored with MongoDB
+3. View post "show" pages with title, author, and content.
+4. View city pages for "London" and "Gibraltar".
+5. All of this data should be coming from a database stored with MongoDB
 
 ### Bonuses
 
 **A user should be able to:**
 
 1. Visit city pages via pretty urls, like "/cities/san-francisco".
-1. On a city's page:
+2. On a city's page:
   * See post content truncated to 1000 characters max, with a link to view more.
   * See a relative published date, e.g. "2 days ago".
 
@@ -47,16 +47,16 @@
  * A post's title must be between 1 and 200 characters.
  * A post's content must not be empty.
 
-1. View an error message when form validations fail, for the following validations:
+2. View an error message when form validations fail, for the following validations:
   * Title must be between 1 and 200 characters.
   * Content must not be empty.
-1. View only the 10 most recent posts on a city page (pagination), with
+3. View only the 10 most recent posts on a city page (pagination), with
   * A link/button to the "Next" 10.
   * A link/button to the "Previous" 10.
-1. See a list of the city pages they've contributed to, on their public profile
-1. See the number of posts they've written for each city, next to the city's name in their profile.
-1. View all vagabond cities as markers/pins on a map on the site's homepage.
-1. Click on a pin on the homepage map and be redirected to the corresponding city page.
+4. See a list of the city pages they've contributed to, on their public profile
+5. See the number of posts they've written for each city, next to the city's name in their profile.
+6. View all vagabond cities as markers/pins on a map on the site's homepage.
+7. Click on a pin on the homepage map and be redirected to the corresponding city page.
 
 ---
 
