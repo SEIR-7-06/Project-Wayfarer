@@ -15,21 +15,15 @@ The client has provided basic wireframes and user stories. In some cases, these 
 
 The client contract consists of three core sprints and four bonus sprints. Each sprint contains a set of user stories. You may not complete all of the sprints within the time period, and that's ok. **The goal is to gain experience working on a development project in a group while navigating a client's feature list.**
 
-**IMPORTANT:** You may not begin the first sprint until you have created and gotten your ERD approved.
-**IMPORTANT:** You may not begin a new sprint or start on a bonus without client approval.
-
-You will work in groups of 3-4, and we expect you to **pair program** for the majority of the time you're writing code.
+You will work in groups of 4-5, and we expect you to **pair program** and **mob program** (group of 3 or more) for the majority of the time you're writing code.
 
 During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks ([example Trello board](https://trello.com/b/JPdt327u/vagabond)).
 
-Commit changes at least once for each user story. Put effort into your **design**. Use a CSS framework (e.g. Bootstrap or Materialize), partials, and some custom CSS or Sass/Less.
+Commit changes at least once for each user story. Put effort into your **design**.
 
 Work as **[git collaborators](./git-collaboration-workflow.md), build on feature branches, and submit pull requests for approval and merging**.
 
-After you have completed your project, **deploy to heroku** to get practice getting the app online. The earlier you resolve deployment, the easier it will be to fix bugs.
-
-**Refactor** your code after each sprint, considering:
-
+Use this as an opportunity to write clean code.
 * Indentation
 * Readability/clarity
 * Naming
@@ -51,20 +45,14 @@ After you have completed your project, **deploy to heroku** to get practice gett
 
 
 <details>
-<summary>TEAMS</summary>
+<summary>Teams :)</summary>
 <br>
  
-Jessica Hansen, Joey Giardina, Mohamed Abdulah, Nicholas Gacicia
+Neeraj, Stephany, Cody, Nicole
 
-Khanon Nomura, Cassandra Jacques, Nic K, Tom Gray
-
-Vishwa G, Joseph Baker, Luvy Cunanan, Abe A Abdullah
-
-Scott Johnson, Andre Renaud, Joshua Johnson
-
-Sennad Binghalib, Kenny Trinh, Matt Biggers
-
-Brittany Bui, Joal Chiu, Alexander Miller, Josh Waldman
+Marshawn, Gonzalo, DK, Megan, Satya
+ 
+Greg, Erin, Brooke, Marshall, Jack
  
  </details>
 
