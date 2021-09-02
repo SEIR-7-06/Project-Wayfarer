@@ -15,7 +15,7 @@ The client has provided basic wireframes and user stories.
 
 The client contract consists of three core sprints and four bonus sprints. Each sprint contains a set of user stories. You may not complete all of the sprints within the time period, and that's ok. **The goal is to gain experience working on a development project in a group while navigating a client's feature list.**
 
-You will work in groups of 4-5, and we expect you to **pair program** and **mob program** (group of 3 or more) for the majority of the time you're writing code.
+You will work in groups of 4-5, and we expect you to **pair program** and/or **mob program** (group of 3 or more) for the majority of the time you're writing code.
 
 During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks ([example Trello board](https://trello.com/b/JPdt327u/vagabond)).
 
