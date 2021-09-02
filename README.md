@@ -6,7 +6,7 @@ We have been commissioned to build a travel community, code-named **Project Wayf
 
 ## Client Contract
 
-The client has provided basic wireframes and user stories. In some cases, these requirements may be vague or incomplete.
+The client has provided basic wireframes and user stories.
 
 * [Wireframes](./wireframes.png)
 * [User Stories](./user-stories.md)
