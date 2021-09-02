@@ -9,11 +9,11 @@
 **A user should be able to:**
 
 1. View the "San Francisco" page (at "/cities/1") including:
-  * The site-wide header.
-  * The name of the city.
-  * An iconic photo of the city.
+  - The site-wide header.
+  - The name of the city.
+  - An iconic photo of the city.
 1. View a list of posts on the San Francisco page:
-  * With the post titles linked to the individual post "show" pages.
+  - With the post titles linked to the individual post "show" pages.
 1. View post "show" pages with title, author, and content.
 1. View city pages for "London" and "Gibraltar".
 1. All of this data should be coming from a database stored with MongoDB
