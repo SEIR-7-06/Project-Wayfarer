@@ -43,20 +43,6 @@ Use this as an opportunity to write clean code.
 
 5. **What milestones are you and your group members interested in working on?** How can you effectively delegate the work into pairs so that each group member is interested, challenged, and productive?
 
-
-<details>
-<summary>Teams :)</summary>
-<br>
- 
-Neeraj, Stephany, Cody, Nicole
-
-Marshawn, Gonzalo, DK, Megan, Satya
- 
-Greg, Erin, Brooke, Marshall, Jack
- 
- </details>
-
-
 ## Presentation
 
 Project presentations will be on on **02/26/2021 Friday**.
@@ -91,5 +77,17 @@ You will be evaluated on the following measures:
   - code demonstrates good problem solving
   - code is DRY
 3. Technical requirements
-  - all core requirements from sprints 1, 2, and 3
-  - full CRUD for posts
+  - all core requirements from sprints 1
+
+<details>
+<summary>Teams :)</summary>
+<br>
+ 
+Nicole, Neeraj, Stephany, Cody
+
+Satya, Marshawn, Gonzalo, DK, Megan
+ 
+Greg, Erin, Brooke, Marshall, Jack
+ 
+</details>
+
