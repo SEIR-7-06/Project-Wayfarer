@@ -113,7 +113,7 @@
 
 
 ### Possible Resources
-- Express Sessions: https://git.generalassemb.ly/SEIR-7-06/sessions
+- [Express Sessions](https://git.generalassemb.ly/SEIR-7-06/sessions)
 <!-- - Firebase Auth: https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/ -->
 <!-- - Strapi Auth: https://blog.strapi.io/protected-routes-and-authentication-with-react-and-node-js/ -->
 <!-- - JWT Auth: https://appdividend.com/2018/02/07/node-js-jwt-authentication-tutorial-scratch/ -->
