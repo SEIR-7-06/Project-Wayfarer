@@ -45,7 +45,7 @@ Use this as an opportunity to write clean code.
 
 ## Presentation
 
-Project presentations will be on on **02/26/2021 Friday**.
+Project presentations will be on on **9/9/2021 Thursday**.
 
 Each group will have 10 minutes to present and should feature all members of the team.
 
