@@ -58,27 +58,6 @@ Each group will have 10 minutes to present and should feature all members of the
 * Words of wisdom - What advice would you give to a brand new group taking on this project
 * Shout outs for fellow students!
 
-## Evaluation
-
-You will be evaluated on the following measures:
-
-1. Project workflow
-  - frequent commits with good commit messages
-  - cooperative group work including majority of pair programing
-  - effective use of branches
-  - planning to avoid excessive merge conflicts
-  - deliberate approach - routeside-in, logical progress from skateboard to car
-  - the code is your original code
-2. Readability
-  - to what degree does your app fulfill the user stories?
-  - code is clean
-  - follows good naming conventions
-  - code is free of obvious errors and bugs
-  - code demonstrates good problem solving
-  - code is DRY
-3. Technical requirements
-  - all core requirements from sprints 1
-
 <details>
 <summary>Teams :)</summary>
 <br>
